@@ -400,8 +400,8 @@ form {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(3, 1fr);
-    gap: 4em 2em;
-    width: 80%;
+    gap: 2em 2em;
+    width: 90%;
     margin: auto;
 }
 
@@ -450,7 +450,7 @@ form button:hover {
 
 #contact h1 {
     text-align: center;
-    margin: 3em 0 3em 0;
+    margin: 1em 0;
 }
 
 footer {
